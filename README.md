@@ -10,5 +10,7 @@ Currently, it is possible to draw with 4 colours, and the robot is also capable 
 Big thank's to Jose Luis Garcia del Castillo from Parametric Camp for the awesome Machina Software and his contributions to the Grasshopper community.
 
 Check out my Youtube channel : https://www.youtube.com/channel/UCmhngWaFEuuBk_fJgyZC5FA 
+
 Check out RobotExMachina : https://github.com/RobotExMachina/Machina-Grasshopper
+
 Check out Parametric Camp : https://www.youtube.com/channel/UCSgG9KzVsS6jArapCx-Bslg
